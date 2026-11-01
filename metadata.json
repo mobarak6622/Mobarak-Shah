@@ -1,0 +1,6 @@
+{
+  "name": "Obsidian Calc",
+  "description": "Advanced scientific calculator with real-time expression evaluation, physical constants, memory registers, and a high-contrast OLED dark theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">Obsidian Calc</string>
+    <string name="app_subtitle">Precision Scientific Engine</string>
+
+    <!-- Header & Mode Controls -->
+    <string name="mode_deg">DEG</string>
+    <string name="mode_rad">RAD</string>
+    <string name="mode_grad">GRAD</string>
+    <string name="notation_norm">DEC</string>
+    <string name="notation_sci">SCI</string>
+    <string name="notation_eng">ENG</string>
+    <string name="cd_toggle_angle_mode">Cycle angle unit mode between degrees, radians, and gradians</string>
+    <string name="cd_toggle_notation_mode">Cycle number notation between decimal, scientific, and engineering</string>
+    <string name="cd_open_history">Open calculation history and constants sheet</string>
+    <string name="cd_toggle_scientific_drawer">Toggle scientific functions panel</string>
+    <string name="cd_copy_result">Copy result to clipboard</string>
+
+    <!-- Display Well -->
+    <string name="display_placeholder">0</string>
+    <string name="memory_indicator_prefix">M = %1$s</string>
+    <string name="ans_indicator_prefix">Ans = %1$s</string>
+    <string name="copied_to_clipboard">Copied to clipboard</string>
+    <string name="scientific_drawer_label">SCIENTIFIC MATRIX</string>
+    <string name="second_shift_active">2ND SHIFT</string>
+
+    <!-- Memory Keys -->
+    <string name="key_mc">MC</string>
+    <string name="key_mr">MR</string>
+    <string name="key_m_plus">M+</string>
+    <string name="key_m_minus">M−</string>
+    <string name="key_ms">MS</string>
+    <string name="key_const">CONST</string>
+
+    <!-- Scientific Keys -->
+    <string name="key_second">2nd</string>
+    <string name="key_sin">sin</string>
+    <string name="key_cos">cos</string>
+    <string name="key_tan">tan</string>
+    <string name="key_asin">sin⁻¹</string>
+    <string name="key_acos">cos⁻¹</string>
+    <string name="key_atan">tan⁻¹</string>
+    <string name="key_sinh">sinh</string>
+    <string name="key_cosh">cosh</string>
+    <string name="key_tanh">tanh</string>
+    <string name="key_asinh">sinh⁻¹</string>
+    <string name="key_acosh">cosh⁻¹</string>
+    <string name="key_atanh">tanh⁻¹</string>
+    <string name="key_ln">ln</string>
+    <string name="key_log10">log</string>
+    <string name="key_log2">log₂</string>
+    <string name="key_exp">eˣ</string>
+    <string name="key_ten_pow">10ˣ</string>
+    <string name="key_two_pow">2ˣ</string>
+    <string name="key_sq">x²</string>
+    <string name="key_cube">x³</string>
+    <string name="key_pow">xʸ</string>
+    <string name="key_sqrt">√x</string>
+    <string name="key_cbrt">∛x</string>
+    <string name="key_yroot">ʸ√x</string>
+    <string name="key_fact">n!</string>
+    <string name="key_inv">1/x</string>
+    <string name="key_abs">|x|</string>
+    <string name="key_mod">mod</string>
+    <string name="key_npr">nPr</string>
+    <string name="key_ncr">nCr</string>
+    <string name="key_pi">π</string>
+    <string name="key_e">e</string>
+    <string name="key_phi">φ</string>
+    <string name="key_ans">Ans</string>
+    <string name="key_ee">EXP</string>
+
+    <!-- Primary Keypad -->
+    <string name="key_ac">AC</string>
+    <string name="key_clear_entry">C</string>
+    <string name="key_open_paren">(</string>
+    <string name="key_close_paren">)</string>
+    <string name="key_percent">%</string>
+    <string name="key_backspace">⌫</string>
+    <string name="key_divide">÷</string>
+    <string name="key_multiply">×</string>
+    <string name="key_subtract">−</string>
+    <string name="key_add">+</string>
+    <string name="key_equals">=</string>
+    <string name="key_decimal">.</string>
+    <string name="key_negate">±</string>
+
+    <!-- History & Constants Sheet -->
+    <string name="tab_history">History Tape</string>
+    <string name="tab_constants">Physical Constants</string>
+    <string name="tab_formulas">Sample Formulas</string>
+    <string name="history_empty_title">No Calculations Yet</string>
+    <string name="history_empty_subtitle">Evaluate any scientific expression or tap a sample formula below to test the engine.</string>
+    <string name="action_clear_history">Clear Unpinned</string>
+    <string name="action_use_expression">Load Expr</string>
+    <string name="action_use_result">Insert Result</string>
+    <string name="cd_pin_calculation">Pin calculation to top of history</string>
+    <string name="cd_delete_calculation">Remove calculation from history</string>
+    <string name="cd_close_sheet">Close panel</string>
+</resources>
